@@ -1,0 +1,86 @@
+body {
+  background-color: #fae6e1 !important;
+}
+a {
+  color: #fae6e1 !important;
+}
+p {
+  color: #fae6e1;
+}
+span {
+  color: #fae6e1;
+}
+.btn {
+  background-color: #672340 !important;
+}
+h1 {
+  color: #fae6e1;
+  text-shadow: 1px 1px #10133b;
+}
+h2 {
+  color: #fae6e1;
+  text-shadow: 1px 1px #10133b;
+}
+h3 {
+  color: #672340;
+  text-shadow: 1px 1px #10133b;
+}
+h4 {
+  color: #fae6e1;
+}
+h5 {
+  color: #fae6e1;
+  text-shadow: 1px 1px #10133b;
+}
+.navbar {
+  background-color: #f5b049e7;
+  /* background-color: #f27360; */
+}
+.card-body {
+  background-color: #f5b049e7;
+}
+.movie-detail {
+  max-height: 100%;
+  max-width: 100%;
+}
+.movieDetailsTitle {
+  color: #672340;
+  text-shadow: 1px 1px #10133b;
+  text-align: center;
+}
+.movieDetailsSubTitle {
+  color: #672340;
+  text-shadow: 1px 1px #10133b;
+}
+.about-img {
+  max-height: 100%;
+  max-width: 100%;
+}
+#ftr {
+  background-color: #f5b049e7;
+  text-align: center;
+}
+#ctn {
+  min-height: 100vh;
+  align-items: center;
+}
+@media only screen and (min-width: 768px) {
+  #ctn {
+    height: 120px;
+    height: 50%;
+  }
+}
+#aboutCont {
+  background-color: #f5b049e7;
+}
+.pr-20 {
+  padding-right: 30px;
+}
+.card-body {
+  min-height: 282px;
+}
+.jumbotron {
+  background-image: url("/jumbotron.jpg");
+  background-size: cover;
+  min-width: 1110px;
+}
