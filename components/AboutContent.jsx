@@ -15,7 +15,7 @@ export default function AboutContent() {
             <h4>TMDB Front-end Project From Berke Erbağcı</h4>
             <p className="pr-20">
               This is a front-end project for job application to Appcent which
-              developped by Berke Erbcağı. HTML5, CSS Bootstrap and
+              developped by Berke Erbcağı. HTML5, CSS Bootstrap4 and
               React/Next.js are the used front-end technologies.{" "}
             </p>
             <p>To contact me: berkeerbagci@outlook.com </p>
